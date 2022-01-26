@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>FAQS</title>
+	<link rel="stylesheet" href="stylewww.css">
+	<link href='https://fonts.googleapis.com/css2?family=Playfair+Display:ital@0;1&display=swap' rel='stylesheet' type='text/css'>
+</head>
+<body>
+	<div id="container">
+		<div id="heder"></div>
+			<div id="menu_top">
+				<ul>
+					<li class="dropdown">
+						<a href="javascript:void(0)" class="dropbtn">Moja Biblioteka</a>
+						<div class="dropdown-content">
+							<a href="logging.php">Moja karta biblioteczna</a>
+							<a href="logging.php">Zarejestruj się/ Zaloguj się</a>
+						</div>
+					</li>
+				<li><a href="search.php">Wyszukaj</a></li>
+                    	<li><a href="categories.php">Kategorie</a></li> 
+					<li class="dropdown">
+						<a href="javascript:void(0)" class="dropbtn">Dla Ciebie</a>
+						<div class="dropdown-content">
+							<a href="adult.html">Dorośli</a>
+							<a href="teens.html">Młodzież</a>
+							<a href="kids.html">Dzieci</a>
+						</div>
+					</li>
+					<li class="dropdown">
+						<a href="javascript:void(0)" class="dropbtn">O nas</a>
+						<div class="dropdown-content">
+							<a href="faqs.html">FAQS</a>
+							<a href="contact.html">Kontakt</a>
+						</div>
+					</li>
+					<li>
+    					<label class="dropdown">
+    						<input type="button" <input type="submit"  class="button" value="Tryb nocny" onclick="themeChange()">
+    						<span class="slider round" ></span>
+    					</label>
+    					<script src="darkModeScript.js"></script>
+					</li>
+				</ul>
+				<div style="clear: both;"></div>
+			</div>
+		<div id="aside">
+			<div id="menu_box">
+				<h2>Menu</h2>
+				<ul>
+					<li><a href="index.html">Strona główna</a></li> 
+					<li><a href="search.php">Wyszukaj</a></li>
+					<li><a href="contact.html">Kontakt</a></li>
+                    <li><a href="categories.php">Kategorie</a></li>
+				</ul>
+			</div>
+		</div>
+		<div id="content">
+			<div id="article">
+				<div id="tekst">
+					<h2>Najczęściej zadawane pytania</h2>
+						<td style="height: 36px; width: 100%;">
+							<header><b>Czy moge wyrobić elektroniczną kartę biblioteczną, jeśli nie mieszkam ani nie jestem z Poznania?<br></b>
+							</header>
+								<div id="NonresidentCard" class="collapse in" style="" aria-expanded="true">
+									<p>Jeśli mieszkasz poza Poznaniem, możesz zakupić kartę Biblioteki Miejskiej
+										w cenie 25zł za rok (15zł za trzy miesiące; 10zł za jeden miesiąc).
+										Zakup karty spoza Poznania umożliwia innym mieszkańcom twojego gospodarstwa domowego
+										aby również otrzymali takową kartę.<br>
+										<i>Wszystkie pozostałe zasady uzyskania karty Biblioteki Miejskiej dotyczyą również osób 
+										mieszkających poza Poznaniem.</i>
+									</p>
+								</div>
+						</td>
+						<td style="height: 36px; width: 100%;">
+							<header><b>Czy biblioteka jest zamknięta w świeta?<br></b>
+							</header>
+								<div id="NonresidentCard" class="collapse in" style="" aria-expanded="true">
+									<p>Niestety w święta nasza biblioteka jest zamknieta, działamy jedynie w wersji elektronicznej.<br></p>
+								</div>
+						</td>
+						<td style="height: 36px; width: 100%;">
+							<header><b>Jak wyrobić kartę biblioteczną? <br></b>
+							</header>
+								<div id="NonresidentCard" class="collapse in" style="" aria-expanded="true">
+									<p>Wszyscy mieszkańcy Poznania mogą bezpłatnie zarejestrować się online, 
+									aby otrzymać Miejską Kartę Biblioteczną. <a href="logging.php">Kliknij tutaj</a>, aby otrzymać 
+									kartę biblioteczną online.Po zakończeniu rejestracji i otrzymaniu identyfikacyjnego numeru karty 
+									bibliotecznej (id_wypozyczajacego), możesz rozpocząć przeglądanie zasobów naszej biblioteki cyfrowej. 
+									Aby zapobiec rozprzestrzenianiu się wirusa COVID-19, wprowadzono pewne zmiany w tandardowym procesie 
+									ubiegania się o kartę biblioteczną:
+									<ol>
+										<li>Pracownicy biblioteki rozpatrują wnioski o wydanie karty tak szybko, jak to możliwe. 
+										Otrzymasz wiadomość z numerem karty, jak tylko twoja aplikacja zostanie przetworzona.</li>
+										<li>Jeśli zgubiłeś swoją dotychczasową kartę, prosimy o zarejestrowanie się w celu uzyskania nowej.</li>
+										<li>Musisz podać swój adres e-mail, abyśmy mogli wysłać Ci nowy numer karty.</li>
+									<ol>
+									<i>Osoby poniżej 18 roku życia muszą uzyskać zgodę rodzica lub opiekuna prawnego. Jeśli nie jesteś 
+									mieszkańcem Poznania, nadal możesz zarejestrować się by otrzymać kartę Biblioteki Miejskiej za 
+									roczną opłatą w wysokości 25zł.</i></p>
+								</div>
+						</td>	
+						<td style="height: 36px; width: 100%;">
+							<header><b>Gdzie mogę zwrócić wypożyczoną książkę? <br></b>
+							</header>
+								<div id="NonresidentCard" class="collapse in" style="" aria-expanded="true">
+									<p> Biblioteka Miejska przyjmuje zwroty w naszych zewnętrznym punkcie sprzedaży książek znajdującego 
+										się na ulicy Stanisława Taczaka 6. Możesz zwrócić książki, komiksy i czasopisma.<br>
+										<i>Godziny otwarcia znajdują się w zakladce <a href="contact.html">"Kontakt"</a></i>
+									</p>
+								</div>
+						</td>
+					<div style="clear: both;"></div>
+				</div>
+			</div>
+			<div style="clear: both;"></div>
+			<div id="footer">
+				<div id="top_footer">
+    				<div id="aside_footer">Kontakt +48 666 444 555</div>
+    				<div id="aside_footer">Mail biblioteka.poznan@gmail.com</div>
+    				<div id="aside_footer">Adres ul.Taczaka 6 Poznań 60-778</div>
+    				<div id="bottom_footer">Copyright by Olga M and Julia Ł</div>
+				</div>
+			</div>
+	    </div>	
+	</div>
+</body>
+</html>
