@@ -1,0 +1,312 @@
+%!Adobe-FontList 1.18
+%Locale:0x415
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\xampp\htdocs\webhostbiblioteka\Font\OFL.txt
+FileModTime:1624961898
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:PlayfairDisplay-Italic
+FamilyName:Playfair Display
+StyleName:Italic
+FullName:Playfair Display Italic
+MenuName:Playfair Display
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\webhostbiblioteka\Font\PlayfairDisplay-Italic-VariableFont_wght.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:324344
+FileModTime:1624961898
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Playfair Display
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:PlayfairDisplay-Regular
+FamilyName:Playfair Display
+StyleName:Regular
+FullName:Playfair Display Regular
+MenuName:Playfair Display
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\webhostbiblioteka\Font\PlayfairDisplay-VariableFont_wght.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:340520
+FileModTime:1624961898
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Playfair Display
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:PlayfairDisplay-Black
+FamilyName:Playfair Display
+StyleName:Black
+FullName:Playfair Display Black
+MenuName:Playfair Display Black
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\webhostbiblioteka\Font\static\PlayfairDisplay-Black.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:236436
+FileModTime:1624961898
+WeightClass:900
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Playfair Display Black
+NameArray:0,Win,16,Playfair Display
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:PlayfairDisplay-BlackItalic
+FamilyName:Playfair Display
+StyleName:Black Italic
+FullName:Playfair Display Black Italic
+MenuName:Playfair Display Black
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\webhostbiblioteka\Font\static\PlayfairDisplay-BlackItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:227424
+FileModTime:1624961898
+WeightClass:900
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Playfair Display Black
+NameArray:0,Win,16,Playfair Display
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:PlayfairDisplay-Bold
+FamilyName:Playfair Display
+StyleName:Bold
+FullName:Playfair Display Bold
+MenuName:Playfair Display
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\webhostbiblioteka\Font\static\PlayfairDisplay-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:236548
+FileModTime:1624961898
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Playfair Display
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:PlayfairDisplay-BoldItalic
+FamilyName:Playfair Display
+StyleName:Bold Italic
+FullName:Playfair Display Bold Italic
+MenuName:Playfair Display
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\webhostbiblioteka\Font\static\PlayfairDisplay-BoldItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:227820
+FileModTime:1624961898
+WeightClass:700
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Playfair Display
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:PlayfairDisplay-ExtraBold
+FamilyName:Playfair Display
+StyleName:ExtraBold
+FullName:Playfair Display ExtraBold
+MenuName:Playfair Display ExtraBold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\webhostbiblioteka\Font\static\PlayfairDisplay-ExtraBold.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:236472
+FileModTime:1624961898
+WeightClass:800
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Playfair Display ExtraBold
+NameArray:0,Win,16,Playfair Display
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:PlayfairDisplay-ExtraBoldItalic
+FamilyName:Playfair Display
+StyleName:ExtraBold Italic
+FullName:Playfair Display ExtraBold Italic
+MenuName:Playfair Display ExtraBold
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\webhostbiblioteka\Font\static\PlayfairDisplay-ExtraBoldItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:227832
+FileModTime:1624961898
+WeightClass:800
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Playfair Display ExtraBold
+NameArray:0,Win,16,Playfair Display
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:PlayfairDisplay-Italic
+FamilyName:Playfair Display
+StyleName:Italic
+FullName:Playfair Display Italic
+MenuName:Playfair Display
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\webhostbiblioteka\Font\static\PlayfairDisplay-Italic.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:227492
+FileModTime:1624961898
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Playfair Display
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:PlayfairDisplay-Medium
+FamilyName:Playfair Display
+StyleName:Medium
+FullName:Playfair Display Medium
+MenuName:Playfair Display Medium
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\webhostbiblioteka\Font\static\PlayfairDisplay-Medium.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:236568
+FileModTime:1624961898
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Playfair Display Medium
+NameArray:0,Win,16,Playfair Display
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:PlayfairDisplay-MediumItalic
+FamilyName:Playfair Display
+StyleName:Medium Italic
+FullName:Playfair Display Medium Italic
+MenuName:Playfair Display Medium
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\webhostbiblioteka\Font\static\PlayfairDisplay-MediumItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:227836
+FileModTime:1624961898
+WeightClass:500
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Playfair Display Medium
+NameArray:0,Win,16,Playfair Display
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:PlayfairDisplay-Regular
+FamilyName:Playfair Display
+StyleName:Regular
+FullName:Playfair Display Regular
+MenuName:Playfair Display
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\webhostbiblioteka\Font\static\PlayfairDisplay-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:236212
+FileModTime:1624961898
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Playfair Display
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:PlayfairDisplay-SemiBold
+FamilyName:Playfair Display
+StyleName:SemiBold
+FullName:Playfair Display SemiBold
+MenuName:Playfair Display SemiBold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\webhostbiblioteka\Font\static\PlayfairDisplay-SemiBold.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:236636
+FileModTime:1624961898
+WeightClass:600
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Playfair Display SemiBold
+NameArray:0,Win,16,Playfair Display
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:PlayfairDisplay-SemiBoldItalic
+FamilyName:Playfair Display
+StyleName:SemiBold Italic
+FullName:Playfair Display SemiBold Italic
+MenuName:Playfair Display SemiBold
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\webhostbiblioteka\Font\static\PlayfairDisplay-SemiBoldItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:227944
+FileModTime:1624961898
+WeightClass:600
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Playfair Display SemiBold
+NameArray:0,Win,16,Playfair Display
+%EndFont
+
